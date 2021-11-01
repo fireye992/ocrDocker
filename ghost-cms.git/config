@@ -5,4 +5,4 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://https://github.com/fireye992/ocrDocker
+	url = https://https://github.com/fireye992/ocrDocker.git
